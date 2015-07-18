@@ -1,6 +1,6 @@
 {
   "name": "linear-presets-length",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Linear presets for length units",
   "main": "src/linear-presets-length.js",
   "scripts": {
