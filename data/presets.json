@@ -1,10 +1,13 @@
 {
-  "metreToKilometre": [[0, 1e3], [0, 1]],
-  "metreToCentimetre": [[0, 1], [0, 100]],
-  "metreToMillimetre": [[0, 1], [0, 1e3]],
-  "metreToMile": [[0, 1609.344], [0, 1]],
-  "metreToYard": [[0, 0.9144], [0, 1]],
-  "metreToFoot": [[0, 0.3048], [0, 1]],
-  "metreToInch": [[0, 0.0254], [0, 1]],
-  "metreToNauticalMile": [[0, 1852], [0, 1]]
+  "base": "metre",
+  "conversions":  {
+    "kilometre": [[0, 1e3], [0, 1]],
+    "centimetre": [[0, 1], [0, 100]],
+    "millimetre": [[0, 1], [0, 1e3]],
+    "mile": [[0, 1609.344], [0, 1]],
+    "yard": [[0, 0.9144], [0, 1]],
+    "foot": [[0, 0.3048], [0, 1]],
+    "inch": [[0, 0.0254], [0, 1]],
+    "nauticalMile": [[0, 1852], [0, 1]]
+  }
 }
