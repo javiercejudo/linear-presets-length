@@ -1,6 +1,7 @@
 {
   "base": "metre",
   "conversions":  {
+    "metre": [[0, 1], [0, 1]],
     "kilometre": [[0, 1e3], [0, 1]],
     "centimetre": [[0, 1], [0, 100]],
     "millimetre": [[0, 1], [0, 1e3]],
