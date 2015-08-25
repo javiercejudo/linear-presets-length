@@ -1,0 +1,52 @@
+{
+  "metre": "metre",
+  "metres": "metre",
+  "meter": "metre",
+  "meters": "metre",
+  "m": "metre",
+
+  "kilometre": "kilometre",
+  "kilometres": "kilometre",
+  "kilometer": "kilometre",
+  "kilometers": "kilometre",
+  "km": "kilometre",
+  "klick": "kilometre",
+  "klicks": "kilometre",
+
+  "centimetre": "centimetre",
+  "centimetres": "centimetre",
+  "centimeter": "centimetre",
+  "centimeters": "centimetre",
+  "cm": "centimetre",
+
+  "millimetre": "millimetre",
+  "millimetres": "millimetre",
+  "millimeter": "millimetre",
+  "millimeters": "millimetre",
+  "mm": "millimetre",
+
+  "mile": "mile",
+  "miles": "mile",
+  "mi": "mile",
+
+  "yard": "yard",
+  "yards": "yard",
+  "yd": "yard",
+
+  "foot": "foot",
+  "feet": "foot",
+  "ft": "foot",
+  "′": "foot",
+
+  "inch": "inch",
+  "inches": "inch",
+  "in": "inch",
+  "″": "inch",
+
+  "nauticalMile": "nauticalMile",
+  "nautical mile": "nauticalMile",
+  "nautical miles": "nauticalMile",
+  "M": "nauticalMile",
+  "NM": "nauticalMile",
+  "nmi": "nauticalMile"
+}
