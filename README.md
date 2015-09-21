@@ -25,5 +25,6 @@ Base: [Metre](https://en.wikipedia.org/wiki/Metre)
 
 ## Related projects
 
+- [unit-synonyms-length](https://github.com/javiercejudo/unit-synonyms-length): length units synonyms.
 - [linear-presets](https://github.com/javiercejudo/linear-presets): linear presets for common units.
 - [linear-converter](https://github.com/javiercejudo/linear-converter): flexible linear converter.
